@@ -1,0 +1,18 @@
+{
+    "name": "wenyu/wy_rbac-for-laravel",
+    "description": "RBAC For Laravel",
+    "type": "+",
+    "authors": [
+        {
+            "name": "zhangfayuan",
+            "email": "1137494466@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wenyu\\Wy_rbac\\": "src/"
+        }
+    }
+}
