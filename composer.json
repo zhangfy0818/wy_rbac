@@ -1,7 +1,8 @@
 {
     "name": "wenyu/wy-rbac-for-laravel",
     "description": "RBAC For Laravel",
-    "type": "",
+    "type": "library",
+	"version":"1.0.0-dev",
     "authors": [
         {
             "name": "zhangfayuan",
