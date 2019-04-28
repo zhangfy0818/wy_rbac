@@ -9,7 +9,9 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {},
+    "require": {
+		"wenyu/wy-rbac-for-laravel": "dev-master"
+	},
     "autoload": {
         "psr-4": {
             "Wenyu\\Wy_rbac\\": "src/"
