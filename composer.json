@@ -1,7 +1,7 @@
 {
     "name": "wenyu/wy-rbac-for-laravel",
     "description": "RBAC For Laravel",
-    "type": "+",
+    "type": "",
     "authors": [
         {
             "name": "zhangfayuan",
