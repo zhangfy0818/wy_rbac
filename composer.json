@@ -3,6 +3,7 @@
     "description": "RBAC For Laravel",
     "type": "library",
 	"version":"1.0.0-dev",
+	"license": "MIT",
     "authors": [
         {
             "name": "zhangfayuan",
